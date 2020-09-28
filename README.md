@@ -6,4 +6,5 @@ My name is Caleb Kitzman and I am a Finance and Business Analyticsa student at t
 
 Want to learn more about me?
 caleb-kitzman@uiowa.edu
+
 ckitzman99@gmail.com
