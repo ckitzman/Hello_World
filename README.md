@@ -2,4 +2,8 @@
 
 Hi Everyone!
 
-My name is Caleb Kitzman. I am interested in learning more about SQL and Python. I've used these quite a bit throughout my internship and classwork experience and I look foward to learning more about these languages.
+My name is Caleb Kitzman and I am a Finance and Business Analyticsa student at the University of Iowa. I am currently an intern in the Data Analytics deparment at GuideOne insurance creating reports, monitoring processes, and performing analysis to drive decision making within the business. Prior to my current role I was an intern on the Operations Excellence team at Businessolver, a benefits and administration firm. 
+
+Want to learn more about me?
+caleb-kitzman@uiowa.edu
+ckitzman99@gmail.com
