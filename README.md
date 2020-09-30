@@ -15,16 +15,13 @@ GitHub practice and sample respository
 # Using This Program
 <code>
 
-``Hello_World/
-
-    README.md
-    
-    pgmname1.R   
-    
-    filename1.csv
-    
-    examples.html``
-
+`Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
+`
 # Files Used
 - Files used in repsository attached here
 - File names?
