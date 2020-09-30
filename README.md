@@ -23,15 +23,13 @@ caleb-kitzman@uiowa.edu
 ckitzman99@gmail.com
 
 # Using This Program
-<code>
 
-`
-Hello_World
+<Hello_World
     │── README.md  
     │── pgmname1.R    
     │── filename1.csv    
     │── examples.html
-`
+>
 # Files Used
 - Files used in repsository attached here
 - File names?
