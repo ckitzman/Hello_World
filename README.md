@@ -7,7 +7,7 @@
 - [Versioning](https://github.com/ckitzman/Hello_World/#versioning)
 
 # Project Title
-Hello World Sample
+**Hello World Sample**
 
 # Description
 GitHub practice and sample respository
